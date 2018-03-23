@@ -1,5 +1,7 @@
 # Wāpuro Rōmaji
 
+https://gist.github.com/grantovich/4aa38233fb3862301cb1285e18ce57ee
+
 This exercise is an interesting real-world text conversion problem involving
 English and Japanese characters. No advance knowledge of Japanese is required!
 
